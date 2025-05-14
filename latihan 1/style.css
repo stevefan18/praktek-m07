@@ -1,0 +1,46 @@
+.Box{
+    border: solid black;
+    
+}
+.Box1{
+    border: solid black;
+   
+}
+.home{
+    border: solid black;
+}
+.Judul{
+    border: solid 2px rgb(0, 0, 0);
+}
+.harga{
+    background-color: blueviolet;
+}
+
+.Merah{
+    width: 150px;
+    flex: ;
+}
+.Putih{
+    width: 150px;
+}
+.Kulkas{
+    width: 150px;
+    
+}
+.banner{
+    width: 670px;
+}
+.span{
+    color: purple;
+    font-weight: bold;
+    font-weight: ;
+}
+h1{
+    color: rgb(64, 162, 64);
+}
+h3{
+    color: blueviolet;
+}
+body{
+    background-color: #EDFAEE;
+}
